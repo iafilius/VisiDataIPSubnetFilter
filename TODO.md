@@ -1,0 +1,2 @@
+- Test [arjan2](http://_vscodecontentref_/3) with IPv6 addresses.
+- Refactor [arjan2](http://_vscodecontentref_/4) to handle empty subnets gracefully.
